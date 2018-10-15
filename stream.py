@@ -3,7 +3,7 @@
 # 3. Type `source ~/.profile`
 # 3. Type `news` or `current` to listen in your terminal
 
-alias jazz = 'mplayer http://ice7.securenetsystems.net/KCSM2'
+alias jazz = "mplayer http://ice7.securenetsystems.net/KCSM2"
 alias news = "mplayer -playlist http://minnesota.publicradio.org/tools/play/streams/news.pls" # MPR News 
 alias current = "mplayer -playlist http://minnesota.publicradio.org/tools/play/streams/the_current.pls" # The Current 
 alias classical = "mplayer -playlist http://minnesota.publicradio.org/tools/play/streams/classical.pls" # Classical MPR 
