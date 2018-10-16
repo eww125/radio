@@ -3,7 +3,7 @@
 # 3. Type `source ~/.profile`
 # 3. Type `news` or `current` to listen in your terminal
 
-alias piano-"mplayer -playlist http://222.122.178.186:1882/listen.pls"
+alias piano="mplayer -playlist http://222.122.178.186:1882/listen.pls"
 alias bassdrive="mplayer -playlist http://50.7.70.58:8200/listen.pls"
 alias bluegrass="mplayer -playlist http://184.95.62.170:9242/listen.pls"
 alias psytrance="mplayer -playlist http://81.88.36.42:8010/listen.pls"
