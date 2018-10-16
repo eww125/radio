@@ -4,6 +4,7 @@
 # 3. Type `news` or `current` to listen in your terminal
 
 alias bassdrive="mplayer -playlist http://50.7.70.58:8200/listen.pls"
+alias bluegrass="mplayer -playlist http://184.95.62.170:9242/listen.pls"
 alias kqed="vlc -I rc http://streams.kqed.org/kqedradio.m3u"
 alias jazz="mplayer http://ice7.securenetsystems.net/KCSM2"
 alias news="mplayer -playlist http://minnesota.publicradio.org/tools/play/streams/news.pls" # MPR News 
