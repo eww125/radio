@@ -1,3 +1,4 @@
+alias edm="http://pulseedm.cdnstream1.com:8124/1373_128.m3u"
 alias celtic="mplayer -playlist http://192.111.140.11:8058/listen.pls"
 alias house="mplayer -playlist http://37.187.93.104:8589/listen.pls"
 alias classical="mplayer -playlist http://8.38.78.173:8093/listen.pls"
