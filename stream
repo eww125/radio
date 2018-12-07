@@ -1,3 +1,4 @@
+alias punk="mplayer -playlist http://sc1.mystreamserver.com:8080/listen.pls"
 alias tejano="mplayer -playlist http://198.245.60.88:8432/listen.pls"
 alias dub="mplayer -playlist http://192.99.41.102:5304/listen.pls"
 alias techno="mplayer -playlist http://50.7.99.163:11168/listen.pls"
