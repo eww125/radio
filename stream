@@ -1,4 +1,4 @@
-alias dub="mplayer -playlist http://192.99.41.102:5304/listen.pls?sid=1&t=.m3u"
+alias dub="mplayer -playlist http://192.99.41.102:5304/listen.pls"
 alias techno="mplayer -playlist http://50.7.99.163:11168/listen.pls"
 alias house="mplayer -playlist http://78.46.246.97:9000/listen.pls"
 alias edm="mplayer -playlist http://pulseedm.cdnstream1.com:8124/1373_128.m3u"
