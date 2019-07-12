@@ -1,13 +1,13 @@
-# radio
+## radio
 
-## 1. Install mplayer command line (via Brew, Macports, or APT)
+### 1. Install mplayer command line (via Brew, Macports, or APT)
 
-## `pico  ~/.profile`
+### `pico  ~/.profile`
 
-## add: `source ~/radio/stream`
+### add: `source ~/radio/stream`
 
-## ctrl-o/ctrl-x
+### ctrl-o/ctrl-x
 
-## `source ~/.profile`
+### `source ~/.profile`
 
-## 3. Type `news` or `current` to listen in your terminal
+### 3. Type `news` or `current` to listen in your terminal
